@@ -1,0 +1,5 @@
+streamlit>=1.50,<2
+pillow
+rapidocr-onnxruntime==1.4.4
+requests
+opencv-python-headless
